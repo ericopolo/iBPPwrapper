@@ -21,7 +21,7 @@ Although Perl and R interpreters are obviously needed, they already come on repo
 
 Once you have all dependencies satisfied, download iBPPwrapper by clicking Code > download ZIP on this page or, if you have git installed:
 
-`git clone https://github.com/erico171/iBPPwrapper.git`
+`git clone https://github.com/ericopolo/iBPPwrapper.git`
 
 Make sure both scripts are executable:
 
